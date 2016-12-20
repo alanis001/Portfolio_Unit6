@@ -1,22 +1,25 @@
     header {
       text-align: center;
-      background: url("images/banner.jpg");
-      background-size: cover;
+      background: url("https://s-media-cache-ak0.pinimg.com/originals/c5/9a/d2/c59ad2bd4ad2fbacd04017debc679ddb.gif");
+      background-size:cover;
       color: white;
+    
     }
     .nav {
       color: white;
     }
     h1 {
       font-size: 70px;
+      box-shadow:20px green;
     }
     img {
       margin: 40px 0px 0px 0px;
-      border: 7px solid white;
-      border-radius: 20px;
+      border-radius: 300px;
+      height:300px;
+      width:300px;
     }
     ul {
-      padding: 10px;
+      padding: 20px;
       background: rgba(0,0,0,0.5);
     }
     li {
@@ -38,3 +41,4 @@
         display: block;
       }
     }
+    
